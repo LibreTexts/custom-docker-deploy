@@ -1,5 +1,5 @@
 jupyterhub==0.9.4
-nb_conda_kernels==*
+nb_conda_kernels==2.2.0
 numpy==1.16.*
 scipy==1.1.0
 matplotlib==3.*
