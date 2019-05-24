@@ -1,7 +1,5 @@
 FROM jupyter/minimal-notebook:abdb27a6dfbb
 
-ARG NB_USER=jovyan
-ARG NB_UID=1000
 ENV USER ${NB_USER}
 ENV NB_UID ${NB_UID}
 ENV HOME /home/${NB_USER}
