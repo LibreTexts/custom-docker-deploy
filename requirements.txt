@@ -1,7 +1,7 @@
 jupyterhub==0.9.4
 nb_conda_kernels==2.2.0
 numpy==1.16.*
-scipy==1.1.0
+scipy==1.10.0
 matplotlib==3.*
 seaborn==0.8.1
 pandas==0.24.2
